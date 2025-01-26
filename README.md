@@ -1,6 +1,6 @@
-# <p align="center"> Hey, I'm Rohit <span>:libra:</span>
+# <p align="center"> Hey, I'm Rohit <span>:libra:</span> </br>  ![](https://komarev.com/ghpvc/?username=rshaarma&color=green)</p>
 ### <p align="center">A London-based Developer  </p>
-</br>  ![](https://komarev.com/ghpvc/?username=rshaarma&color=green)</p>
+
 
 ```javascript
 const developer = {
