@@ -1,4 +1,4 @@
-# <p align="center"> Hey, I'm Rohit <span>:libra:</span>  <img width="50px" src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966"> <br/>  ![](https://komarev.com/ghpvc/?username=rshaarma&color=green)</p>
+# <p align="center"> Hey, I'm Rohit <span>:libra:</span>   <br/>  ![](https://komarev.com/ghpvc/?username=rshaarma&color=green)</p>
 ### <p>A London-based Developer  <img align="center" src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="80px"></p>
 ```javascript
 const developer = {
