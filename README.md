@@ -13,12 +13,12 @@ const developer = {
     },
     backend: {
       js: ["NodeJS", "Ruby on Rails"],
-      databases: ["PSQL"],
+      databases: ["PSQL", "Supabase"],
       misc: ["Firebase"]
     }
   },
   background: ["Freelancer - MERN Stack", "CSE student"],
-  hobbies: ["Exploring new technologies", "Playing cricket", "Traveling"]
+  hobbies: ["Exploring new technologies", "Playing cricket", "Travelling"]
 }
 ``` 
 <!-- SKILLS -->
